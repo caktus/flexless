@@ -1,6 +1,6 @@
 {
   "name": "@caktus/flexless",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A set of useful Less mixins for working with Flexbox",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
