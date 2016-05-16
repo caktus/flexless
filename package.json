@@ -1,5 +1,5 @@
 {
-  "name": "flexless",
+  "name": "@caktus/flexless",
   "version": "0.1.0",
   "description": "A set of useful Less mixins for working with Flexbox",
   "scripts": {
